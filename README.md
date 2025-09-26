@@ -12,3 +12,8 @@ Lessons learned:
 - Basic Workflow git <-> GitHub
 
 ändere README, pushe auf main
+
+
+     Aenderungen durchgefuehrt
+
+  
