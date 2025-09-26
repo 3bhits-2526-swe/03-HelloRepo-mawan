@@ -14,6 +14,4 @@ Lessons learned:
 ändere README, pushe auf main
 
 
-     Aenderungen durchgefuehrt
-
-  
+Aenderungen auf der gleichen Zeile durchgefuehrt, sodass ein Konflikt entsteht.
